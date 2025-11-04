@@ -20,10 +20,10 @@ Database: [Add your database]
 
 ## Status
 🚧 Currently in development
-Installation
-~bash~
+
 # Add installation instructions when ready
-~~
+
+
 Roadmap
 
  Complete core study session functionality
